@@ -11,3 +11,17 @@
     min-width: 300px;
     width: 310px;
 }
+
+nav {
+    background-color: black;
+    padding: 0.1em;
+}
+
+nav ul {
+    display: flex;
+    /* margin: 0 auto; */
+    /* border: 0.1em yellow solid; */
+    /* width: 25%; */
+    justify-content: space-around;
+    margin:0;
+}
